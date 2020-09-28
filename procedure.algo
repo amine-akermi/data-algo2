@@ -1,0 +1,10 @@
+PROCEDURE dot_product(v1,v2:vector)
+VAR
+i,x,y,z : INTEGER
+BEGIN
+// v1 (x,y,z) ; v2(x1,y1,z1)
+product:=0
+FOR i FROM 1 TO i<size; i++  DO
+ product:= v1(x)*v2(x1)+v1(y)*v2(y2)+v1(z)*v2(z2)
+END_FOR
+END
